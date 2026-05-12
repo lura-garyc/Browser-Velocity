@@ -7,6 +7,7 @@ Full-screen mode: We've made the display fill the **entire monitor screen**
 Copyright (c) Lura & Gemini
 
 Tutorial:
+
 Step 1: Download
 Step 2: If a window appears mentioning SmartScreen, click “More info” and then “Run anyway”
 Step 3: Click “Next” and wait
