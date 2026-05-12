@@ -8,7 +8,7 @@ Copyright (c) Lura & Gemini
 
 Tutorial:
 
-Step 1: Download
+<img width="94" height="89" alt="image" src="https://github.com/user-attachments/assets/6d54a94c-a0d9-4c86-a541-e725bd8de1a5" /> Step 1: Download
  Step 2: If a window appears mentioning SmartScreen, click “More info” and then “Run anyway”
  Step 3: Click “Next” and wait
  Step 4: Open your browser!
