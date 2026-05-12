@@ -10,7 +10,8 @@ Tutorial:
 
 <img width="94" height="89" alt="image" src="https://github.com/user-attachments/assets/6d54a94c-a0d9-4c86-a541-e725bd8de1a5" /> Step 1: Download
  
- Step 2: If a window appears mentioning SmartScreen, click “More info” and then “Run anyway”
+ <img width="532" height="498" alt="image" src="https://github.com/user-attachments/assets/2b6f0e6a-5f57-4c9b-a277-0bb629eb0cea" />
+Step 2: If a window appears mentioning SmartScreen, click “More info” and then “Run anyway”
  
  Step 3: Click “Next” and wait
  
