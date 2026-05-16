@@ -1,4 +1,4 @@
-# <p align="center">🚀 Browser-Velocity v2.6</p>
+# <p align="center">🚀 Browser-Velocity v2.7</p>
 
 <p align="center">
   <img width="180" height="180" alt="Velocity Ava" src="https://github.com/user-attachments/assets/354e4a30-37be-4122-a374-47bfb70b4ad2" />
@@ -8,16 +8,6 @@
 
 ### ⚠️ DISCLAIMER
 > **The publisher is unknown**, which is why Windows SmartScreen might flag this. This is normal for open-source projects without a paid certificate. You can audit the full source code right here in this repository.
-
----
-
-### 🌟 What's New in v2.6
-* **🏷️ Dynamic Tabs:** Tabs now display real website names and update in real-time.
-* **📺 Full-screen Mode:** Pure immersive experience. The display now fills the **entire monitor screen**.
-* **🧹 Deep Clean:** Improved history and cache clearing (YouTube recommendations reset).
-* **🔇 Silent Close:** Tabs now close instantly with no ghost audio.
-
----
 
 ### 🛠️ Tutorial: How to Install
 
